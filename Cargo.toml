@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2021"
 authors = ["dimxxkun <work.abdulfatai@gmail.com>"]
 description = "A high-performance partitioned message broker with consumer groups, offset tracking, and dead-letter queues."
-license = "MIT"
+license-file = "LICENSE"
 
 [dependencies]
